@@ -1,2 +1,2 @@
 # Deep-Learning
-Implementation of EfficientNet Using CNN architecture
+Implementation of RESNet Using CNN architecture
